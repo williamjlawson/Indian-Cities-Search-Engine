@@ -1,0 +1,33 @@
+/* element styles */
+
+body {
+    background-color: #d9fcfa;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    font-size: 3em;
+    text-align: center;
+    padding-top: 2em;
+}
+
+li {
+    list-style: none;
+    text-align: center;
+}
+
+input {
+    width: 400px;
+    height: 40px;
+    margin: auto;
+    position: relative;
+    padding-bottom: 2em;
+}
+
+/* class styles */
+
+.search-form {
+    font-size: 2em;
+    text-align: center;
+}
